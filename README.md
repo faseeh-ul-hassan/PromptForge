@@ -122,28 +122,8 @@ Each log includes:
 - Model response
 - Success status
 
-🧠 Architecture Overview
-
-User
- ↓
-Attack Engine
- ↓
-LLM Model
- ↓
-Response Evaluator
- ↓
-Score + Log
-
 🛡️ Ethical Use Notice :
 PromptForge is intended strictly for defensive security testing, research, and education.
-
-Do NOT use this tool to:
-
-- Attack production systems without permission
-- Bypass safeguards in live AI services
-- Cause harm or data exposure
-
-You are responsible for ethical use.
 
 🧑‍💻 Author :
 Faseeh Ul Hassan
